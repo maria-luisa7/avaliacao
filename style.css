@@ -1,0 +1,13 @@
+body{
+    background-color: blanchedalmond;
+}
+h1{
+    font: size 900px; ;
+    color: darkslategrey;
+    text-align: center;
+}
+img{
+    width: 500px;
+    height: 500px;
+    margin: left 400px;
+}
